@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/3D PacMan.unity
+- path: Assets/Scenes/3D PacMan game w assets.unity
   isLoaded: 1
   isActive: 1
