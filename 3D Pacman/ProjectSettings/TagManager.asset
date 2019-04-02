@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Pacman
   - Enemy
+  - Ghost
+  - Wall
+  - LWall
+  - RWall
+  - Pickup
   layers:
   - Default
   - TransparentFX
